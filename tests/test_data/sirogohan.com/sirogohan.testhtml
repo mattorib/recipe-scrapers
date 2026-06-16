@@ -1,0 +1,1224 @@
+<!DOCTYPE html>
+<!--[if IE 8 ]>    <html lang="ja" class="ie8"> <![endif]-->
+<!--[if IE 9 ]>    <html lang="ja" class="ie9"> <![endif]-->
+<!--[if (gte IE 10)|!(IE)]><!-->
+<html lang="ja">
+<!--<![endif]-->
+
+<head>
+  <meta charset="UTF-8">
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-0KL2H4BNEX"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+
+    function gtag() {
+      dataLayer.push(arguments);
+    }
+    gtag('js', new Date());
+
+    gtag('config', 'G-0KL2H4BNEX');
+  </script>
+  <meta name="viewport" content="width=1024">
+  <meta name="description" content="白ごはん.comの『簡単な豚の生姜焼きの作り方』のレシピページです。このレシピは定食屋さんをイメージした作りやすい＆食べやすい仕上がりのものです。生姜焼き用の豚肉ではなく、薄切り肉を使って筋切りなどの下ごしらえナシで美味しく作っていきます。">
+  <meta name="keywords" content="生姜焼き,豚肉,たれ,レシピ,作り方,簡単">
+    <!--Facebook -->
+      <meta property="og:type" content="article">
+  <meta property="og:title" content="簡単な豚の生姜焼きのレシピ／筋切り不要で作りやすい＆食べやすい！：白ごはん.com">
+  <meta property="og:url"
+    content="http://www.sirogohan.com/recipe/shougayakieasy/">
+  <meta property="og:image" content="https://www.sirogohan.com/_files/recipe/images/shougayaki/shougayakieasy2713.JPG">
+  <meta property="og:description" content="白ごはん.comの『簡単な豚の生姜焼きの作り方』のレシピページです。このレシピは定食屋さんをイメージした作りやすい＆食べやすい仕上がりのものです。生姜焼き用の豚肉ではなく、薄切り肉を使って筋切りなどの下ごしらえナシで美味しく作っていきます。">
+  <meta property="og:site_name" content="白ごはん.com：おもてなしから基本まで いちばん丁寧な和食レシピサイト">
+  <!--end -->
+
+  <title>簡単な豚の生姜焼きのレシピ／筋切り不要で作りやすい＆食べやすい！：白ごはん.com</title>
+      <link rel="alternate" media="only screen and (max-width: 640px)" href="https://www.sirogohan.com/sp/recipe/shougayakieasy/">
+    <link href="/common/js/lib/jquery.bxslider/jquery.bxslider.css" rel="stylesheet" media="all">
+  <link href="/common/css/lib/remodal/remodal.css" rel="stylesheet" media="all">
+  <link href="/common/css/lib/remodal/remodal-default-theme.css" rel="stylesheet" media="all">
+
+
+  <link rel="stylesheet"
+    href="/common/css/common.css?date=20250605100721"
+    media="all">
+  <link href="/common/css/recipe.css" rel="stylesheet" media="all"><link href="/common/css/pickup.css" rel="stylesheet" media="all">
+<link rel="amphtml" href="https://www.sirogohan.com/sp/recipe/shougayakieasy/amp/">
+  <link rel="apple-touch-icon" href="/sp/common/img/apple-touch-icon.png">
+  <link href="//fonts.googleapis.com/earlyaccess/notosansjapanese.css" rel="stylesheet" type="text/css">
+  <link rel="shortcut icon" href="/common/img/favicon.ico" />
+    <link rel="canonical"
+    href="https://www.sirogohan.com/recipe/shougayakieasy/">
+  <script src="/common/js/jquery-1.11.3.min.js"></script>
+  <script src="/common/js/app.min.js"></script>
+  <!--[if lt IE 9]><script src="/common/js/lib/html5shiv-printshiv.js"></script><script src="/common/js/lib/selectivizr-min.js"></script><![endif]-->
+  <script src="/common/js/jquery.cookie.min.js"></script>
+  <script src="/common/js/smt_redirect.js"></script>
+  <!--Googleアクセス解析-->
+  <script type="text/javascript">
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-24591565-1']);
+    _gaq.push(['_trackPageview']);
+
+    (function() {
+      var ga = document.createElement('script');
+      ga.type = 'text/javascript';
+      ga.async = true;
+      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') +
+        '.google-analytics.com/ga.js';
+      var s = document.getElementsByTagName('script')[0];
+      s.parentNode.insertBefore(ga, s);
+    })();
+  </script>
+
+  <script async src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"></script>
+  <script src="https://works.gsspcln.jp/w/ad_format/deliveryRestrict.js"></script>
+  <script>
+    window.googletag = window.googletag || {
+      cmd: []
+    };
+    googletag.cmd.push(function() {
+      if (!window.isPC()) return
+      const targetSlot = googletag.defineSlot('/9116787,22729532547/1542128', [728, 90], '1542128').addService(
+        googletag.pubads());
+      googletag.pubads().enableSingleRequest();
+      googletag.enableServices();
+      googletag.pubads().addEventListener("impressionViewable", (event) => {
+        if (event.slot !== targetSlot) return;
+        const gnOvOuter = document.getElementById("geniee_overlay_outer");
+        const gnOvCloseBtn = document.getElementById("geniee_overlay_close");
+        if (!gnOvOuter || !gnOvCloseBtn) return;
+        const gnOvIframe = gnOvOuter.getElementsByTagName("iframe")[0];
+        if (!gnOvIframe) return;
+        const BANNER_HEIGHT = gnOvIframe.clientHeight;
+
+        if (BANNER_HEIGHT === 0) return;
+        gnOvOuter.style.visibility = "visible";
+        document.body.style.marginBottom = `${BANNER_HEIGHT}px`;
+        gnOvCloseBtn.addEventListener("click", function() {
+          gnOvOuter.style.display = "none";
+          document.body.style.marginBottom = "";
+        });
+      });
+    });
+  </script>
+
+</head>
+
+<body>
+
+  <div id="geniee_overlay_outer" style="position:fixed; bottom: 0;left:0; right:0; margin:auto; z-index:1000000000; visibility:hidden; background: rgba(0,0,0,.3);">
+    <img src="https://works.gsspcln.jp/w/ad_format/close_icons/close_icon_bold.png" width="30" height="30" id="geniee_overlay_close" style="position: absolute; top: 0; left: 0;">
+      <div id="1542128" style="margin: auto; width: 728px;">
+        <script>
+          googletag.cmd.push(function() {
+            googletag.display("1542128");
+          });
+        </script>
+    </div>
+  </div>
+
+  <div id="fb-root"></div>
+  <script>
+    (function(d, s, id) {
+      var js, fjs = d.getElementsByTagName(s)[0];
+      if (d.getElementById(id)) return;
+      js = d.createElement(s);
+      js.id = id;
+      js.async = true;
+      js.src = "//connect.facebook.net/ja_JP/sdk.js#xfbml=1&version=v2.4";
+      fjs.parentNode.insertBefore(js, fjs);
+    }(document, 'script', 'facebook-jssdk'));
+  </script>
+
+  <!--///// header start -->
+  <header>
+    <div class="inner-cont">
+      <p id="head-logo"><a href="/"><img src="/common/img/logo.gif" alt="白ごはん.com" width="175"
+              height="32"></a></p>      <p id="head-tagline"><img src="/common/img/tagline.gif" alt="おもてなし料理から和食の基本まで♪いちばん丁寧な和食レシピサイト" width="351"
+          height="12"></p>
+
+      <nav id="gnav-wrap">
+        <ul id="gnav">
+          <li class="-pickup"><a href="/pickup/"><img src="/common/img/nav_pickup.gif" alt="献立・弁当のヒント" width="112"
+                height="25" class="fadeover"></a></li>
+          <li><a href="/recipe/" onclick="_gaq.push(['_trackEvent', 'pc', 'click', '新着レシピ：PC']);"><img
+                src="/common/img/nav_new.gif" alt="新着レシピ" width="68" height="25" class="fadeover"></a>
+          </li>
+          <li><a href="/popular/"><img src="/common/img/nav_popular.gif" alt="人気レシピ " width="68" height="25"
+                class="fadeover"></a></li>
+          <li class="-favorite"><a href="/favorite/"><img src="/common/img/nav_favorite.gif" alt="お気に入り " width="65"
+                height="25" class="fadeover"></a></li>
+          <li class="-modal"><a href="#" data-remodal-target="modal"><img src="/common/img/nav_favorite.gif"
+                alt="お気に入り " width="65" height="25" class="fadeover"></a></li>
+          <li><a href="https://note.com/sirogohancom/" target="_blank"><img src="/common/img/nav_blog.gif" alt="ブログ"
+                width="39" height="25" class="fadeover"></a></li>
+        </ul>
+      </nav>
+      <div class="loader"></div>
+      <div class="mypage-btn -mypage"><a href="/favorite/">マイページ</a></div>
+      <div class="mypage-btn -login"><a href="/member/login/">ログイン</a></div>
+    </div>
+  </header>
+  <!--///// header end -->
+
+<div id="contents" class="inner-cont">
+  <article id="main-wrap">
+    <div id="main">
+
+      <section>
+
+        <!--////////// レシピヘッダー start -->
+        <div id="recipe-header" class="inner-main" itemscope itemtype="http://schema.org/Recipe">
+
+          <h1 id="recipe-name" itemprop="name">簡単な豚の生姜焼きのレシピ／筋切り不要で作りやすい＆食べやすい！</h1>
+
+                      <ul class="recipe-category">
+                                <li><a href="/recipe/index/genre:C/category:C7"><span>基本のおかず</span></a></li>
+                                <li><a href="/recipe/index/genre:C/category:C3"><span>肉のおかず</span></a></li>
+                          </ul>
+          
+          <p id="recipe-main"><img itemprop="image" src="https://www.sirogohan.com/_files/recipe/images/shougayaki/shougayakieasy2713.JPG" width="750" height="499" alt="簡単な豚の生姜焼きの写真"></p>
+
+                      <div id="cooking-note">
+              <div class="cooking-note-inner">
+                                  <p id="cooking-time">調理時間：30分<span class="cooking-time-detail"></span></p>
+                                                <p id="cooking-recipe"><a href="#" data-remodal-target="modal-cooking-recipe">大まかな流れをチェック</a></p>
+                              </div>
+                          </div>
+          
+          <div class="description-wrap fbox">
+
+            <div class="recipe-description" itemprop="description">
+              <p>白ごはん.comの<a href="/recipe/shougayaki/" target="_blank">生姜焼き</a>は洋食屋さんのような本格派を目指してレシピにしていましたが、<strong>このレシピは定食屋さんをイメージした作りやすい＆食べやすい仕上がりのもの</strong>です。</p>
+<p>◆ヘルシーな生姜焼き！<a href="/recipe/munesote/" target="_blank">「鶏むね肉の生姜焼き」</a></p>            </div>
+
+            <div class="recipe-sns">
+
+              <!--////////// 会員機能 start -->
+                              <div class="recipe-favorite">
+                  <a href="#" data-remodal-target="modal-recipe">
+                    <p class="recipe-favorite-txt">お気に入り登録</p>
+                    <p class="recipe-favorite-num">155<span>件</span></p>
+                  </a>
+                </div>
+
+                <div class="recipe-memo">
+                  <a href="#" data-remodal-target="modal-recipe">
+                    <p class="recipe-memo-txt">メモを追加</p>
+                  </a>
+                </div>
+                            <!--////////// 会員機能 end -->
+
+
+                              <dl class="recipe-keyword">
+                  <dt class="icon-keyword">このレシピのキーワード</dt>
+                                      <dd><a href="/recipe/index/keyword:生姜焼き">生姜焼き</a></dd>
+                                      <dd><a href="/recipe/index/keyword:がっつり・スタミナ">がっつり・スタミナ</a></dd>
+                                      <dd><a href="/recipe/index/keyword:豚ロース">豚ロース</a></dd>
+                                      <dd><a href="/recipe/index/keyword:子供に人気">子供に人気</a></dd>
+                                      <dd><a href="/recipe/index/keyword:弁当メインおかず">弁当メインおかず</a></dd>
+                                      <dd><a href="/recipe/index/keyword:生姜たっぷり">生姜たっぷり</a></dd>
+                                      <dd><a href="/recipe/index/keyword:ごはんがすすむ！">ごはんがすすむ！</a></dd>
+                                  </dl>
+                            <ul class="recipe-snslist">
+                <!--                <li class="sns-share"><div class="fb-share-button" data-layout="button_count" data-href="https://www.sirogohan.com/recipe/shougayakieasy/"></div></li>-->
+
+                <li class="sns-share">
+                  <div class="fb-share-button" data-layout="button_count" data-href="http://www.sirogohan.com/recipe/shougayakieasy/"></div>
+                </li>
+
+                <li class="sns-tweet"><a href="https://twitter.com/share" class="twitter-share-button" data-lang="ja" data-count="none">ツイート</a>
+                  <script>
+                    ! function(d, s, id) {
+                      var js, fjs = d.getElementsByTagName(s)[0],
+                        p = /^http:/.test(d.location) ? 'http' : 'https';
+                      if (!d.getElementById(id)) {
+                        js = d.createElement(s);
+                        js.id = id;
+                        js.src = p + '://platform.twitter.com/widgets.js';
+                        fjs.parentNode.insertBefore(js, fjs);
+                      }
+                    }(document, 'script', 'twitter-wjs');
+                  </script>
+                </li>
+                <li class="sns-line">
+                  <span>
+                    <div class="line-it-button" data-lang="ja" data-type="share-a" data-env="REAL" data-url="" data-color="default" data-size="small" data-count="false" data-ver="3" style="display: none;"></div>
+                    <script src="https://www.line-website.com/social-plugins/js/thirdparty/loader.min.js" async="async" defer="defer"></script>
+                  </span>
+                </li>
+                <!-- <li class="sns-line"><span>
+                    <script type="text/javascript" src="//media.line.me/js/line-button.js?v=20140411"></script>
+                    <script type="text/javascript">
+                      new media_line_me.LineButton({
+                        "pc": true,
+                        "lang": "ja",
+                        "type": "a"
+                      });
+                    </script>
+                  </span></li> -->
+              </ul>
+              <p class="recipe-print icon-print"><a href="#" onclick="window.print(); return false;">印刷する</a></p>
+            </div>
+
+            <!--//.description-wrap-->
+          </div>
+
+          <!--//#recipe-header-->
+        </div>
+        <!--////////// レシピヘッダー end -->
+
+
+                  <!--////////// 材料 start -->
+          <section class="material fbox inner-main">
+                          <h2 class="material-ttl recipe-sttl">豚の生姜焼きの材料                <span>(2人分)</span>              </h2>
+                                      <div class="material-halfbox">
+                <ul class="disc-list">
+	<li><a href="https://www.sirogohan.com/recipe/index/keyword:%E8%B1%9A%E3%83%AD%E3%83%BC%E3%82%B9">豚ロース肉</a>（薄切り）　…　200ｇ（10枚ほど）</li>
+<li>生姜　…　30g（下記工程写真も参考に）</li>
+<li>玉ねぎ　…　1/4個</li>
+<li>キャベツのせん切り　…　適量</li>
+<li>サラダ油や米油など好みの油　…　大さじ1</li>
+<li>ごま油　…　小さじ1/2</li>
+</ul>
+              </div>
+                                      <div class="material-halfbox">
+                <ul class="a-list">
+<li>醤油　…　大さじ1と1/2</li>
+<li>酒　…　大さじ1</li>
+	<li>みりん　…　大さじ1/2</li>
+<li>ケチャップ　…　小さじ1/2</li>
+</ul>
+              </div>
+                      </section>
+          <!--////////// 材料 end -->
+        
+        								<!--////////// 広告バナー start -->
+				<div class="ad-full">
+					<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- 白ごはん.comリニューアル　PCビッグバナー -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:728px;height:90px"
+     data-ad-client="ca-pub-0190203606838568"
+     data-ad-region="top"
+     data-ad-slot="8199770260"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+<p class="ad-sponsor">スポンサーリンク</p>				</div>
+				<!--////////// 広告バナー end -->
+				
+
+        <!--////////// 作り方 start -->
+        <section class="howto inner-main">
+          <h2 class="recipe-sttl">簡単な豚の生姜焼きの作り方</h2>
+          <div class="howto-block">
+	<h3 class="howto-ttl icon-num01">生姜焼きの下ごしらえ</h3>
+
+<p>豚肉は<strong>薄切りの豚ロース肉を2人分で200ｇほど</strong>使います。それに対する生姜の分量は下の写真くらいのサイズ。30ｇほどあれば生姜の風味もしっかり出ます。</p>
+
+	<ul class="howto-imglist-col1">
+		<li><img src="/_files/recipe/images/shougayaki/shougayakieasy1.JPG" width="448" height="299" alt="生姜焼きの材料"></li>
+	</ul>
+
+<p class="note-text mb25"><span class="text13">※厚みのある“生姜焼き用の豚肉”で作る場合は、こちらの<a href="/recipe/shougayaki/" target="_blank">「豚の生姜焼き」</a>レシピも参考にしてみてください。</span></p>
+
+<p><span class="bg">薄切りの豚ロース肉の場合は、特に筋切りをする必要はないため、はじめに<strong>仕上がりをやわらかくするための【漬け込み作業】を行います</strong></span></p>
+
+<p>漬け込むバットを用意し、<span class="bg"><strong>Aの調味料（醤油大さじ1と1/2、酒大さじ1、みりん大さじ1/2、ケチャップ小さじ1/2）</strong></span>を合わせます。</p>
+<p>そこに、生姜の皮を薄くむいてから、生姜30gほどを全量すりおろします。※ケチャップは隠し味程度に、写真くらいの少量でOK！</p>
+
+	<ul class="howto-imglist-col1">
+		<li><img src="/_files/recipe/images/shougayaki/shougayakieasy2.JPG" width="448" height="299" alt="生姜をすりおろす"></li>
+		<li><img src="/_files/recipe/images/shougayaki/shougayakieasy3.JPG" width="448" height="299" alt="隠し味のケチャップの分量"></li>
+	</ul>
+
+<p>調味料をよく混ぜ、豚肉と合わせて味をなじませます（※豚肉が折り重なっている場合は、広げると味が均一に広がりやすいです）</p>
+<p><strong>漬け込む時間は【10～15分】ほど</strong>。途中に豚肉の上下を一度入れ替えるとよいです。</p>
+
+	<ul class="howto-imglist-col1">
+		<li><img src="/_files/recipe/images/shougayaki/shougayakieasy4.JPG" width="448" height="299" alt="豚肉を漬け込む"></li>
+		<li><img src="/_files/recipe/images/shougayaki/shougayakieasy5.JPG" width="448" height="299" alt="豚肉の上下を返す"></li>
+	</ul>
+
+<p>豚肉に味をなじませる間に、玉ねぎを薄切りにしておきましょう。</p>
+
+	<ul class="howto-imglist-col1">
+		<li><img src="/_files/recipe/images/shougayaki/shougayakieasy6.JPG" width="448" height="299" alt="玉ねぎを薄切りにする"></li>
+	</ul>
+
+<!--//.howto-block--></div>
+
+
+
+<div class="howto-block">
+	<h3 class="howto-ttl icon-num02">豚の生姜焼きのレシピ/仕上げ</h3>
+
+<p>フライパンに<span class="bg"><strong>油大さじ1とごま油小さじ1/2</strong></span>を合わせます（少量のごま油が風味をアップしてくれます）。</p>
+<p>中火にかけて熱くなったら玉ねぎを入れ、先に玉ねぎだけを【1分】炒めます。</p>
+
+	<ul class="howto-imglist-col1">
+		<li><img src="/_files/recipe/images/shougayaki/shougayakieasy7.JPG" width="448" height="299" alt="フライパンにごま油を入れる"></li>
+		<li><img src="/_files/recipe/images/shougayaki/shougayakieasy9.JPG" width="448" height="299" alt="玉ねぎを先に炒める"></li>
+	</ul>
+
+
+<p>続けて、豚肉をフライパンに追加します。その時、<strong>漬け込みに使った汁気をバットに残し、豚肉だけを追加するようにしてください</strong>（タレは後から使います）</p>
+<p>箸で豚肉を軽くほぐしながら、<strong>豚肉全体の色が変わって火が通るまで【1分半】ほど炒めます</strong>。</p>
+
+	<ul class="howto-imglist-col1">
+		<li><img src="/_files/recipe/images/shougayaki/shougayakieasy8.JPG" width="448" height="299" alt="バットに汁気を残す"></li>
+		<li><img src="/_files/recipe/images/shougayaki/shougayakieasy10.JPG" width="448" height="299" alt="豚肉を追加する"></li>
+			<li><img src="/_files/recipe/images/shougayaki/shougayakieasy11.JPG" width="448" height="299" alt="豚肉の色が変わるまで炒める"></li>
+	</ul>
+<p class="note-text"><span class="text13">※味付けに使ったタレの液体は、後から入れた方が失敗しにくいし、コンロまわりの汚れも出にくいです。</span></p>
+
+
+<p>豚肉の色が変わったら、バットに残ったタレを全量を加えて汁気を飛ばします。</p>
+<p>※火加減によりますが、【2分】ほどフライパンを振りながら炒めると、ちょうどよい煮詰まり具合になるかと思います。</p>
+
+	<ul class="howto-imglist-col1">
+		<li><img src="/_files/recipe/images/shougayaki/shougayakieasy12.JPG" width="448" height="299" alt="残ったタレを入れる"></li>
+		<li><img src="/_files/recipe/images/shougayaki/shougayakieasy13.JPG" width="448" height="299" alt="生姜焼きの汁気を飛ばす"></li>
+	</ul>
+
+<p>タレが煮詰まって豚肉にしっかりからんでくるまで焼いたら出来上がりです。</p>
+<p>好みでせん切りのキャベツなどを添えて盛り付けてみてください。</p>
+
+	<ul class="howto-imglist-col1">
+		<li><img src="/_files/recipe/images/shougayaki/shougayakieasy14.JPG" width="448" height="299" alt="生姜焼きの煮詰め加減"></li>
+		<li><img src="/_files/recipe/images/shougayaki/shougayakieasy2713small.JPG" width="448" height="299" alt="生姜焼きの出来上がり"></li>
+	</ul>
+
+<!--//.howto-block--></div>
+
+
+
+
+
+
+
+
+          
+        </section>
+        <!--////////// 作り方 end -->
+
+
+
+                  <!--////////// 補足 start -->
+          <div class="inner-main">
+            <div class="point-box">
+              <h2 class="point-ttl">【補足】</h2>
+              <div class="point-text">
+                <ul class="disc-list">
+	<li>薄切りの豚ロース肉は、<strong>生姜焼き用の豚肉よりも薄く、しゃぶしゃぶ用の豚肉よりも厚いもの</strong>です。目安としては、200gで10枚程度。</li>
+<li>好みで薄切りの豚肩ロース肉に置き替えて作ることもできます。</li>
+<li>生姜の皮を薄くむくのは、包丁ではなくスプーンを使って、皮をこそげ落とすようにするとよいです。</li>
+</ul>              </div>
+              <!--//.point-box-->
+            </div>
+          </div>
+          <!--////////// 補足 end -->
+        
+
+
+        
+
+
+        <!--////////// 会員機能 start -->
+        <div class="inner-main main-member-menu">
+                      <div class="recipe-favorite">
+              <a href="#" data-remodal-target="modal-recipe">
+                <p class="recipe-favorite-txt">お気に入り登録</p>
+                <p class="recipe-favorite-num">155<span>件</span></p>
+              </a>
+            </div>
+
+            <div class="recipe-memo">
+              <a href="#" data-remodal-target="modal-recipe">
+                <p class="recipe-memo-txt">メモを追加</p>
+              </a>
+            </div>
+                  </div>
+        <!--////////// 会員機能 end -->
+
+
+
+        <!--//////////////////// モーダル関連 start -->
+        <!--////////// 登録完了メッセージ start -->
+        <div id="save-favorite" class="alert-save">
+          <p class="alert-save-txt">お気に入りを登録しました！</p>
+        </div>
+        <!--////////// 登録完了メッセージ end -->
+
+        <!--///// お気に入り解除のモーダル start -->
+        <div class="modal-member remodal" data-remodal-id="modal-remove">
+          <button data-remodal-action="close" class="remodal-close"></button>
+          <h3 class="modal-member-ttl">「お気に入り」を解除しますか？</h3>
+          <p class="modal-member-txt">お気に入りを解除すると、「メモ」に追加した内容は消えてしまいます。<br>
+            問題なければ、下記「解除する」ボタンをクリックしてください。</p>
+          <ul class="modal-member-btn">
+            <li><a href="#" class="favorite-cancel" data-remodal-action="close" recipe_id="1251">解除する</a></li>
+          </ul>
+        </div>
+        <!--///// お気に入り解除のモーダル end -->
+
+        <!--////////// メモ機能 start -->
+        <div id="add-memo-wrap">
+          <div class="inner-main">
+            <div id="add-memo" class="recipe-memo-edit">
+              <form action="/ajax/edit_memo/1251" method="post" id="add-memo-form">
+                <textarea name="memo" class="memo-edit-textarea" placeholder="クリックしてメモを入力"></textarea>
+                <p class="memo-edit-text">メモを保存すると自動的にお気に入りに登録されます。</p>
+                <button class="memo-edit-save memo-close" type="button" name="button">メモを保存</button>
+              </form>
+              <span class="memo-edit-close memo-close"><img src="/common/img/icon_close.png" height="18" width="18" alt="閉じる"></span>
+            </div>
+          </div>
+        </div>
+        <!--////////// メモ機能 end -->
+
+        <!--////////// メモ保存メッセージ start -->
+        <div id="save-memo" class="alert-save">
+          <p class="alert-save-txt">メモを保存しました！</p>
+        </div>
+        <!--////////// メモ保存メッセージ end -->
+
+        <!--///// 新規会員登録のモーダル start -->
+        <div class="modal-member remodal" data-remodal-id="modal-recipe">
+          <button data-remodal-action="close" class="remodal-close"></button>
+          <h3 class="modal-member-ttl">「お気に入り」と「メモ」の保存について</h3>
+          <p class="modal-member-txt">白ごはん.comに会員登録いただくと、お気に入りレシピを保存できます。<br>
+            保存したレシピには「メモ」を追加できますので、<br class="pc-item-m">自己流のアレンジ内容も残すことが可能です。<br>
+            また、保存した内容はログインすることでPCやスマートフォンなどでも<br class="pc-item-m">ご確認いただけます。</p>
+          <ul class="modal-member-btn">
+            <li><a href="/member/">会員登録<span>（無料）</span></a></li>
+            <li><a href="/member/login/?r_url=/recipe/shougayakieasy/">ログイン</a></li>
+          </ul>
+        </div>
+        <!--///// 新規会員登録のモーダル end -->
+
+                <!--///// 大まかな流れをチェック start -->
+        <div class="modal-cooking-recipe remodal" data-remodal-id="modal-cooking-recipe">
+          <button data-remodal-action="close" class="remodal-close"></button>
+          <div class="modal-cooking-recipe-box">
+            <p class="title"><span class="highlight">下ごしらえ</span></p>
+<ul class="disc-list">
+<li>タレを合わせて豚肉を漬け込む（10～15分）</li>
+<li>玉ねぎを薄切りにする</li>
+</ul>
+
+
+<p class="title"><span class="highlight">調理と仕上げ</span></p>
+<ul class="disc-list">
+<li>油を熱し、薄切りにした玉ねぎを炒める</li>
+<li>汁気を切った豚肉を入れて炒める</li>
+<li>残ったタレを全量加え、混ぜながらタレを煮詰めていく</li>
+<li>豚肉にタレをしっかり絡ませる</li>
+</ul>
+<p><span class="text12"><br> ※詳しくは写真付き本文をご覧ください！</span></p>          </div>
+        </div>
+        <!--///// 大まかな流れをチェック end -->
+        
+        <!--//////////////////// モーダル関連 start -->
+
+
+
+
+        <div id="topicpath" class="inner-main">
+
+          <ol itemscope itemtype="https://schema.org/BreadcrumbList">
+            <li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
+              <a itemprop="item" href="/"><span itemprop="name">ホーム</span></a>
+              <meta itemprop="position" content="1" />
+            </li>
+
+            <li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
+              <a itemscope itemtype="https://schema.org/WebPage" itemprop="item" itemid="/recipe/" href="/recipe/">
+                <span itemprop="name">レシピ検索</span></a>
+              <meta itemprop="position" content="2" />
+            </li>
+
+            <li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
+              <span itemprop="name">簡単な豚の生姜焼きのレシピ／筋切り不要で作りやすい＆食べやすい！</span>
+              <meta itemprop="position" content="3" />
+            </li>
+          </ol>
+          <!--//#topicpath-->
+        </div>
+
+
+
+
+        								<!--////////// 広告バナー start -->
+				<div class="ad-halfwrap">
+										<div class="ad-half">
+						<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- 白ごはん.comリニューアル　PCレクタングル大右 -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:336px;height:280px"
+     data-ad-client="ca-pub-0190203606838568"
+     data-ad-region="bottom"
+     data-ad-slot="2153236661"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+<p class="ad-sponsor">スポンサーリンク</p>					</div>
+															<div class="ad-half">
+						<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- 白ごはん.comリニューアル　PCレクタングル大左 -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:336px;height:280px"
+     data-ad-client="ca-pub-0190203606838568"
+     data-ad-region="bottom"
+     data-ad-slot="9676503467"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+<p class="ad-sponsor">スポンサーリンク</p>					</div>
+									</div>
+				<!--////////// 広告バナー end -->
+				
+
+                  <div class="inner-main">
+            <dl class="recipe-keyword">
+              <dt class="icon-keyword">このレシピのキーワード</dt>
+                              <dd><a href="/recipe/index/keyword:生姜焼き">生姜焼き</a></dd>
+                              <dd><a href="/recipe/index/keyword:がっつり・スタミナ">がっつり・スタミナ</a></dd>
+                              <dd><a href="/recipe/index/keyword:豚ロース">豚ロース</a></dd>
+                              <dd><a href="/recipe/index/keyword:子供に人気">子供に人気</a></dd>
+                              <dd><a href="/recipe/index/keyword:弁当メインおかず">弁当メインおかず</a></dd>
+                              <dd><a href="/recipe/index/keyword:生姜たっぷり">生姜たっぷり</a></dd>
+                              <dd><a href="/recipe/index/keyword:ごはんがすすむ！">ごはんがすすむ！</a></dd>
+                          </dl>
+          </div>
+        
+
+        				<div class="main-srch inner-main fbox">
+					<form action="/recipe/index" method="post" id="search-detail">
+
+						<div class="srch-option-wrap">
+							<span class="main-keyword-wrap">
+								<input name="data[Recipe][keyword]" type="text" class="main-srch-keyword cmn-text custom-field" placeholder="キーワードを入れてください" id="keyword" />
+								<input name="submit" type="submit" value="検索" class="main-srch-submit cmn-submit custom-field">
+							</span>
+
+							<h2 class="srch-option-ttl">検索条件<span>キーワード無しでジャンルや調理時間のみでも検索できます</span></h2>
+							<dl class="srch-option">
+								<dt class="icon-genre">ジャンル</dt>
+								<dd><select name="data[Recipe][genre]" class="cmn-select option-select custom-field" id="genre">
+									<option value="">選択しない</option>
+																		<option value="A">ごはん</option>
+																		<option value="B">汁もの</option>
+																		<option value="C">おかず</option>
+																		<option value="H">時短や作り置き</option>
+																		<option value="D">めんと鍋もの</option>
+																		<option value="E">ごはんのお供や保存食</option>
+																		<option value="F">下ごしらえや基本</option>
+																		<option value="G">おやつ</option>
+																	</select></dd>
+								<dt class="icon-kind">種別</dt>
+								<dd><select name="data[Recipe][category]" class="cmn-select option-select custom-field" id="category">
+									<option value="">ジャンルを選択してください</option>
+																		<option value="A1">炊き込みご飯</option>
+																		<option value="A3">どんぶりや混ぜご飯</option>
+																		<option value="A8">おにぎり</option>
+																		<option value="A4">寿司</option>
+																		<option value="A5">その他ごはんもの</option>
+																		<option value="A6">パンや粉ものの軽食</option>
+																		<option value="B1">みそ汁</option>
+																		<option value="B5">スープ</option>
+																		<option value="B4">おすまし</option>
+																		<option value="B6">だしの基本</option>
+																		<option value="C7">基本のおかず</option>
+																		<option value="C1">野菜のおかず</option>
+																		<option value="C2">魚介のおかず</option>
+																		<option value="C3">肉のおかず</option>
+																		<option value="C4">卵のおかず</option>
+																		<option value="C5">豆腐・大豆製品のおかず</option>
+																		<option value="C6">乾物などその他のおかず</option>
+																		<option value="H1">10分以内のかんたん副菜</option>
+																		<option value="H9">20分以内の主役のおかず</option>
+																		<option value="H8">まな板＆包丁いらず</option>
+																		<option value="H3">火を使わないレンジ活用</option>
+																		<option value="H7">冷凍保存可能</option>
+																		<option value="H6">冷蔵で5～7日保存可能</option>
+																		<option value="H5">冷蔵で3～4日保存可能</option>
+																		<option value="D2">めん料理（温）</option>
+																		<option value="D3">めん料理（冷）</option>
+																		<option value="D4">パスタ料理</option>
+																		<option value="D1">鍋もの</option>
+																		<option value="E2">ごはんのお供</option>
+																		<option value="E3">ぬか漬けや浅漬け</option>
+																		<option value="E6">たれやドレッシング</option>
+																		<option value="E8">その他保存食</option>
+																		<option value="F1">野菜の下ごしらえ</option>
+																		<option value="F2">魚介や肉の下ごしらえ</option>
+																		<option value="F5">米とだしの基本</option>
+																		<option value="F4">調理の基本や小技・コツ</option>
+																		<option value="F3">薬味の下ごしらえ</option>
+																		<option value="G1">甘いおやつ</option>
+																		<option value="G3">塩味や素材そのものおやつ</option>
+																		<option value="G5">シロップや甘露煮</option>
+																	</select></dd>
+								<dt class="icon-time">調理時間</dt>
+								<dd><select name="data[Recipe][cook_time]" class="cmn-select option-select custom-field" id="cook_time">
+									<option value="">選択しない</option>
+																		<option value="5">5分</option>
+																		<option value="10">10分</option>
+																		<option value="15">15分</option>
+																		<option value="20">20分</option>
+																		<option value="30">30分</option>
+																		<option value="40">40分</option>
+																		<option value="50">50分</option>
+																		<option value="60">60分</option>
+																		<option value="61">60分超過</option>
+																	</select></dd>
+							</dl>
+
+						</div>
+
+												<div class="srch-keyword-wrap">
+							<h3 class="srch-keyword-ttl icon-keyword">人気のキーワード</h3>
+							<ul class="srch-keyword-list">
+																<li><a href="/recipe/index/keyword:梅仕事"><span class="size-large">梅仕事</span></a></li>
+																<li><a href="/recipe/index/keyword:とうもろこし"><span class="size-medium">とうもろこし</span></a></li>
+																<li><a href="/recipe/index/keyword:鶏もも肉"><span class="size-large">鶏もも肉</span></a></li>
+																<li><a href="/recipe/index/keyword:なす"><span class="size-medium">なす</span></a></li>
+																<li><a href="/recipe/index/keyword:キャベツ"><span class="size-large">キャベツ</span></a></li>
+																<li><a href="/recipe/index/keyword:気楽に作れる"><span class="size-large">気楽に作れる</span></a></li>
+																<li><a href="/recipe/index/keyword:ズッキーニ"><span class="size-medium">ズッキーニ</span></a></li>
+																<li><a href="/recipe/index/keyword:枝豆"><span class="size-large">枝豆</span></a></li>
+																<li><a href="/recipe/index/keyword:居酒屋メニュー"><span class="size-medium">居酒屋メニュー</span></a></li>
+																<li><a href="/recipe/index/keyword:こんにゃく"><span class="size-large">こんにゃく</span></a></li>
+																<li><a href="/recipe/index/keyword:副菜×5分以内"><span class="size-medium">副菜×5分以内</span></a></li>
+																<li><a href="/recipe/index/keyword:豚肉"><span class="size-large">豚肉</span></a></li>
+																<li><a href="/recipe/index/keyword:手作りおやつ"><span class="size-medium">手作りおやつ</span></a></li>
+																<li><a href="/recipe/index/keyword:喫茶店メニュー"><span class="size-medium">喫茶店メニュー</span></a></li>
+																<li><a href="/recipe/index/keyword:常備菜"><span class="size-medium">常備菜</span></a></li>
+																<li><a href="/recipe/index/keyword:もやし"><span class="size-large">もやし</span></a></li>
+																<li><a href="/recipe/index/keyword:ひき肉"><span class="size-large">ひき肉</span></a></li>
+															</ul>
+						</div>
+						
+					</form>
+
+				</div>
+
+<script>
+$(function() {
+	var clone = $('#search-detail select[name="data[Recipe][category]"] option').clone();
+	var genre = '#search-detail select[name="data[Recipe][genre]"]';
+	var category = '#search-detail select[name="data[Recipe][category]"]';
+
+	$(genre).change(function() {
+		var val = $(genre+' option:selected').val();
+		$(category+' option').remove();
+		$(clone).each(function(){
+			var v = $(this).attr('value');
+			if(!v || v.substring(0,1) == val){
+				$(this).appendTo(category);
+			}
+		});
+		if($(category+' option').length == 1){
+			$(category+' option:first').text('ジャンルを選択してください');
+			$(category).attr("disabled","disabled");
+		}else{
+			$(category+' option:first').text('選択しない');
+			$(category).removeAttr("disabled");
+			$(category+' option:selected').attr('selected',false);
+		}
+	})
+	$(genre).change();
+})
+</script>
+
+      </section>
+
+
+      <!--//#main-->
+    </div>
+
+  </article>
+
+
+  <div id="side-wrap">
+    <div id="side">
+
+      <!--////////// レシピ検索 start -->
+<div class="side-full">
+  <div class="inner-side inner-side-srch">
+    <form action="/recipe/index" method="post" class="srch-form">
+      <input name="data[Recipe][keyword]" type="text" placeholder="レシピ検索" class="side-srch-input">
+      <input name="submit" type="image" src="/common/img/side_srch_btn.gif" alt="検索" class="side-srch-submit">
+    </form>
+    <ul class="side-srch-list">
+      <li><a href="/#main-wrap"><strong>旬の食材</strong>から探す</a></li>
+      <li><a href="/#recipe-category"><strong>カテゴリ</strong>から探す</a></li>
+    </ul>
+    <p class="side-pickupLink"><a href="/pickup/">献立・弁当のヒント</a></p>
+  </div>
+
+    <div class="side-editbox">
+    <div class="inner-sidewrap">
+      <div class="member-btn-wrap">
+        <div class="login-btn"><a href="/member/login/"><span>ログイン</span></a></div>
+        <div class="member-btn"><a href="/member/" class="rollover">
+            <p class="member_btn">新規会員登録</p>
+          </a>
+        </div>
+      </div>
+    </div>
+  </div>
+  
+</div>
+<!--////////// レシピ検索 end -->
+
+
+<!--////////// 関連レシピ start -->
+<div class="side-full">
+  <div class="inner-side">
+    <h2>こちらのレシピもおすすめ！</h2>
+    <ul class="side-recipe-list">
+            <li><a href="/recipe/hanba-gu/">
+          <span class="side-recipe-thumb"><img src="/_files/recipe/images/hanba-gu/hanba-gu6321small.JPG"
+              alt="基本のハンバーグ" width="143" height="95" class="fadeover"></span>
+          <span class="side-recipe-name">基本のハンバーグ</span></a>
+      </li>
+            <li><a href="/recipe/pi-mannikudume/">
+          <span class="side-recipe-thumb"><img src="/_files/recipe/images/pi-mannikudume/pi-mannikudume4666small2.JPG"
+              alt="ピーマンの肉詰め" width="143" height="95" class="fadeover"></span>
+          <span class="side-recipe-name">ピーマンの肉詰め</span></a>
+      </li>
+            <li><a href="/recipe/butaso-su/">
+          <span class="side-recipe-thumb"><img src="/_files/recipe/images/butaso-su/butaso-susmall.JPG"
+              alt="豚肉のソース炒め" width="143" height="95" class="fadeover"></span>
+          <span class="side-recipe-name">豚肉のソース炒め</span></a>
+      </li>
+            <li><a href="/recipe/munesote/">
+          <span class="side-recipe-thumb"><img src="/_files/recipe/images/munesote/munesote6140small.JPG"
+              alt="鶏むね肉の生姜焼き" width="143" height="95" class="fadeover"></span>
+          <span class="side-recipe-name">鶏むね肉の生姜焼き</span></a>
+      </li>
+          </ul>
+  </div>
+</div>
+<!--////////// 関連レシピ end -->
+
+
+<!--////////// 広告バナー start -->
+<div class="side-full">
+  <div class="inner-sidewrap">
+    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- 白ごはん.comリニューアル　PCレシポンシブ -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-0190203606838568"
+     data-ad-slot="9816104263"
+     data-ad-region="top"
+     data-ad-format="rectangle"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+<p class="ad-sponsor">スポンサーリンク</p>    <p class="mt30">
+      <script type="text/javascript">
+      var imglist = new Array(
+        '<a href="https://shop.sirogohan.com/product/haiyuuoval" target="_blank"><img src="/img/bn_pc_haiyu.png" alt="白ごはん.comの灰釉オーバル皿"></a>',
+        '<a href="https://shop.sirogohan.com/product/heradai" target="_blank"><img src="/img/bn_pc_hera.png" alt="白ごはん.comの調理べら(大)"></a>',
+        '<a href="https://shop.sirogohan.com/product/kare-hurikake" target="_blank"><img src="/img/bn_pc_curry.png" alt="白ごはん.comのカレーふりかけ"></a>',
+        '<p class="bn_2img"><span><a href="https://shop.sirogohan.com/product/bistorokobu" target="_blank"><img src="/img/bn_pc_konbu.png" alt="白ごはん.comの打ち豆/ビストロ昆布"></a></span><span><a href="https://shop.sirogohan.com/product/utimame" target="_blank"><img src="/img/bn_pc_uchimame.png" alt="白ごはん.comの打ち豆/ビストロ昆布"></a></span><p>',
+        '<a href="https://shop.sirogohan.com/product/dashibrend" target="_blank"><img src="/img/bn_pc_dashi.png" alt="白ごはん.comのだしブレンド"></a>',
+      );
+      var selectnum = Math.floor(Math.random() * imglist.length);
+      var output = imglist[selectnum];
+      document.write(output);
+      </script>
+    </p>
+  </div>
+</div>
+<!--////////// 広告バナー end -->
+
+
+<!--////////// 合わせて見たいレシピ start -->
+<div class="side-editbox">
+  <div class="inner-sidewrap">
+    <h2 class="editbox-ttl"><span>定番の肉レシピいろいろ！</span></h2>
+    <div class="inner-editbox">
+            <p class="large-recipe"><a href="/recipe/karaage/"><span
+            class="side-recipe-thumb"><img src="/_files/recipe/images/karaage/torikaraage4620small.JPG"
+              alt="鶏の唐揚げ" width="143" height="95"
+              class="fadeover"></span>
+          <span class="side-recipe-name">鶏の唐揚げ</span></a></p>
+      
+      <ul class="side-recipe-list">
+                <li><a href="/recipe/toridango/">
+            <span class="side-recipe-thumb"><img src="/_files/recipe/images/toridango/toridango9378small2.JPG"
+                alt="鶏団子の作り方" width="143" height="95" class="fadeover"></span>
+            <span class="side-recipe-name">鶏団子の作り方</span></a>
+        </li>
+                <li><a href="/recipe/pi-mannikudume/">
+            <span class="side-recipe-thumb"><img src="/_files/recipe/images/pi-mannikudume/pi-mannikudume4666small2.JPG"
+                alt="ピーマンの肉詰め" width="143" height="95" class="fadeover"></span>
+            <span class="side-recipe-name">ピーマンの肉詰め</span></a>
+        </li>
+                <li><a href="/recipe/nikuudon/">
+            <span class="side-recipe-thumb"><img src="/_files/recipe/images/nikuudon/nikuudonb8149small.JPG"
+                alt="肉うどん" width="143" height="95" class="fadeover"></span>
+            <span class="side-recipe-name">肉うどん</span></a>
+        </li>
+                <li><a href="/recipe/yasaiitame/">
+            <span class="side-recipe-thumb"><img src="/_files/recipe/images/yasaiitame/yasaiitame1101small.JPG"
+                alt="肉野菜炒め" width="143" height="95" class="fadeover"></span>
+            <span class="side-recipe-name">肉野菜炒め</span></a>
+        </li>
+              </ul>
+
+    </div>
+  </div>
+</div>
+<!--////////// 合わせて見たいレシピ end -->
+
+
+<!--////////// 旬のレシピランキング start -->
+<div class="side-editbox">
+  <div class="inner-sidewrap">
+    <h2 class="editbox-ttl"><span>冬の煮物レシピランキング</span></h2>
+    <div class="inner-editbox">
+            <p class="large-recipe"><a href="/recipe/butabaradaikon/"><span class="side-recipe-thumb"><img
+              src="/_files/recipe/images/butabaradaikon/abutabaradaikon7611small.JPG" alt="豚バラ大根" width="143" height="95"
+              class="fadeover"></span></a></p>
+      <ol class="side-ranking">
+        <li class="icon-num01"><a href="/recipe/butabaradaikon/">豚バラ大根</a>
+        </li>
+                <li class="icon-num02"><a
+            href="/recipe/nikudouhu/">肉豆腐</a></li>
+                <li class="icon-num03"><a
+            href="/recipe/tikuzenni/">基本の筑前煮</a></li>
+                <li class="icon-num04"><a
+            href="/recipe/kakuni/">豚の角煮</a></li>
+                <li class="icon-num05"><a
+            href="/recipe/sabamisoni/">さばの味噌煮</a></li>
+              </ol>
+    </div>
+  </div>
+</div>
+<!--////////// 旬のレシピランキング end -->
+
+
+
+<!--////////// 特集レシピ start -->
+<div class="side-full">
+  <div class="inner-sidewrap">
+    <p class="side-featured"><a href="/feature/"><img src="/common/img/bnr_side_featured.jpg" alt="特集レシピ" width="300"
+          height="94" class="full-img fadeover"></a></p>
+  </div>
+</div>
+<!--////////// 特集レシピ end -->
+
+
+
+<!--////////// おしらせ start -->
+<div class="side-editbox">
+  <div class="inner-sidewrap">
+    <div class="inner-editbox">
+      <h2 class="side-info-ttl"><img src="/common/img/side_info_ttl.gif" alt="最新情報" width="300" height="52"></h2>
+      <ul class="side-info-list fbox">
+                <li><span class="info-date">2026.06.15</span>
+                    <a href="https://www.sirogohan.com/recipe/kirikobus/" target="_blank">切り昆布と豚しゃぶのサラダをアップ！乾物の切り昆布は実はサラダにぴったり。水戻し不要で肉をゆでる前のお湯でさっとゆでるだけ。</a>
+                  </li>
+                <li><span class="info-date">2026.06.04</span>
+                    <a href="https://www.sirogohan.com/recipe/shougayakieasy/" target="_blank">簡単な「豚の生姜焼き」をアップしました！筋切り不要で作りやすい＆食べやすい仕上がりです。</a>
+                  </li>
+                <li><span class="info-date">2026.05.30</span>
+                    <a href="https://www.sirogohan.com/recipe/umedaikon/" target="_blank">手軽なおつまみ「梅大根」をアップ！切って挟むだけで超かんたんです。</a>
+                  </li>
+                <li><span class="info-date">2026.05.27</span>
+                    <a href="https://www.sirogohan.com/recipe/nasumisosu/" target="_blank">なすの酢みそ和えをアップ！大葉や辛子をきかせると、食欲そそる味わいに！</a>
+                  </li>
+                <li><span class="info-date">2026.05.18</span>
+                    <a href="https://www.sirogohan.com/feature/31" target="_blank">ちゃこのブログvo.4 ちゃこのことを気にしてくださっている方、ご興味のある方に読んでいただけましたら。</a>
+                  </li>
+                <li class="news_link"><a href="/news/">最新情報一覧</a></li>
+      </ul>
+    </div>
+  </div>
+</div>
+<!--////////// おしらせ end -->
+
+
+
+
+<!--////////// バナー start -->
+<div class="inner-sidewrap fadeover">
+  <ul class="side-bnr">
+	<li><a href="https://www.youtube.com/channel/UCmfV_755JPAaXR6DNgkPwuA" target="_blank"><img alt="白ごはん.com Channel" height="150" src="/_files/recipe/images/_book/side_bnr_youtube.jpg" width="220" /></a></li>
+	<li><a href="https://lin.ee/eLsl5dD" target="_blank"><img alt="LINEトーク内で白ごはん.comレシピ検索できます！" height="160" src="/_files/recipe/images/_book/side_bnr_linetalk.jpg" width="220" /></a></li>
+</ul>
+<!--////////// 公式SNS start -->
+
+	<section class="side-official">
+		<h2 class="side-official-ttl"><img src="/img/top_side_sns.gif" alt="公式SNS" width="61" height="14"></h2>
+		<ul class="side-official-sns">
+
+				<li><a href="https://instagram.com/tomita_tadasuke/" target="_blank"><img src="/img/top_side_instagram.gif" alt="白ごはん.com 公式インスタグラム" width="30" height="30"></a></li>
+				<li><a href="https://lin.ee/eLsl5dD" target="_blank"><img src="/img/top_side_line.gif" alt="白ごはん.com公式LINEアカウント" width="30" height="30"></a></li>
+				<li><a href="https://twitter.com/sirogohan_com" target="_blank"><img src="/img/top_side_twitter.gif" alt="白ごはん.com 公式ツイッター" width="30" height="30"></a></li>
+</ul>
+	</section>
+
+<!--////////// 公式SNS end --></div>
+<!--////////// バナー end -->
+
+
+      <!--//#side-->
+    </div>
+    <!--//#side-wrap-->
+  </div>
+
+
+  <!--//#contents-->
+</div>
+
+
+	<!--////////// 定番レシピランキング start -->
+	<section class="recipe-ranking">
+		<h2 class="ranking-ttl">梅仕事レシピランキング</h2>
+
+		<div class="ranking-wrap">
+			<div class="ranking-bxslider ranking-boxwrap fbox">
+								<div class="ranking-box">
+					<a href="/recipe/umeju-su/">
+						<h3 class="ranking-numttl"><span><img src="/common/img/ranking_num1.gif" width="40" height="18" alt="1位"></span></h3>
+						<p class="ranking-recipe-thumb"><img src="/_files/recipe/images/umeju-su/umesirob0918small.JPG" alt="梅シロップのレシピ写真" width="200" height="133" class="fadeover"></p>
+						<p class="ranking-recipe-name">梅シロップ</p>
+					</a>
+				</div>
+								<div class="ranking-box">
+					<a href="/recipe/umebosi/">
+						<h3 class="ranking-numttl"><span><img src="/common/img/ranking_num2.gif" width="40" height="18" alt="2位"></span></h3>
+						<p class="ranking-recipe-thumb"><img src="/_files/recipe/images/umebosi/umebosib24402small.JPG" alt="梅干しの作り方／漬け方のレシピ写真" width="200" height="133" class="fadeover"></p>
+						<p class="ranking-recipe-name">梅干しの作り方／漬け方</p>
+					</a>
+				</div>
+								<div class="ranking-box">
+					<a href="/recipe/umeshu/">
+						<h3 class="ranking-numttl"><span><img src="/common/img/ranking_num3.gif" width="40" height="18" alt="3位"></span></h3>
+						<p class="ranking-recipe-thumb"><img src="/_files/recipe/images/umeshu/umeshu5022torismall.JPG" alt="梅酒の作り方のレシピ写真" width="200" height="133" class="fadeover"></p>
+						<p class="ranking-recipe-name">梅酒の作り方</p>
+					</a>
+				</div>
+								<div class="ranking-box">
+					<a href="/recipe/karikari/">
+						<h3 class="ranking-numttl"><span><img src="/common/img/ranking_num4.gif" width="40" height="18" alt="4位"></span></h3>
+						<p class="ranking-recipe-thumb"><img src="/_files/recipe/images/umebosi/karikari6609small.JPG" alt="小梅のカリカリ漬けのレシピ写真" width="200" height="133" class="fadeover"></p>
+						<p class="ranking-recipe-name">小梅のカリカリ漬け</p>
+					</a>
+				</div>
+								<div class="ranking-box">
+					<a href="/recipe/umejamu/">
+						<h3 class="ranking-numttl"><span><img src="/common/img/ranking_num5.gif" width="40" height="18" alt="5位"></span></h3>
+						<p class="ranking-recipe-thumb"><img src="/_files/recipe/images/umejamu/umejamuyokosmall.jpg" alt="梅ジャムのレシピ写真" width="200" height="133" class="fadeover"></p>
+						<p class="ranking-recipe-name">梅ジャム</p>
+					</a>
+				</div>
+								<div class="ranking-box">
+					<a href="/recipe/koume/">
+						<h3 class="ranking-numttl"><span><img src="/common/img/ranking_num6.gif" width="40" height="18" alt="6位"></span></h3>
+						<p class="ranking-recipe-thumb"><img src="/_files/recipe/images/umebosi/koume1924small.JPG" alt="小梅の梅干しの漬け方のレシピ写真" width="200" height="133" class="fadeover"></p>
+						<p class="ranking-recipe-name">小梅の梅干しの漬け方</p>
+					</a>
+				</div>
+								<div class="ranking-box">
+					<a href="/recipe/umeju-suhakkou/">
+						<h3 class="ranking-numttl"><span><img src="/common/img/ranking_num7.gif" width="40" height="18" alt="7位"></span></h3>
+						<p class="ranking-recipe-thumb"><img src="/_files/recipe/images/umeju-su/hakkousmall.JPG" alt="梅シロップの発酵止めや冷凍梅での検証のレシピ写真" width="200" height="133" class="fadeover"></p>
+						<p class="ranking-recipe-name">梅シロップの発酵止めや冷凍梅での検証</p>
+					</a>
+				</div>
+								<div class="ranking-box">
+					<a href="/recipe/umeni/">
+						<h3 class="ranking-numttl"><span><img src="/common/img/ranking_num8.gif" width="40" height="18" alt="8位"></span></h3>
+						<p class="ranking-recipe-thumb"><img src="/_files/recipe/images/umeni/umenismall.JPG" alt="梅酒の梅の甘煮のレシピ写真" width="200" height="133" class="fadeover"></p>
+						<p class="ranking-recipe-name">梅酒の梅の甘煮</p>
+					</a>
+				</div>
+								<div class="ranking-box">
+					<a href="/recipe/umeekisu/">
+						<h3 class="ranking-numttl"><span><img src="/common/img/ranking_num9.gif" width="40" height="18" alt="9位"></span></h3>
+						<p class="ranking-recipe-thumb"><img src="/_files/recipe/images/umeekisu/bainiku8781small.JPG" alt="手作り梅肉エキスのレシピ写真" width="200" height="133" class="fadeover"></p>
+						<p class="ranking-recipe-name">手作り梅肉エキス</p>
+					</a>
+				</div>
+								<div class="ranking-box">
+					<a href="/recipe/yukari/">
+						<h3 class="ranking-numttl"><span><img src="/common/img/ranking_num10.gif" width="40" height="18" alt="10位"></span></h3>
+						<p class="ranking-recipe-thumb"><img src="/_files/recipe/images/yukarigohan/yukarismall.JPG" alt="赤しそ漬けふりかけのレシピ写真" width="200" height="133" class="fadeover"></p>
+						<p class="ranking-recipe-name">赤しそ漬けふりかけ</p>
+					</a>
+				</div>
+							<!--//.swiper-wrapper--></div>
+
+			<!-- Add Arrows -->
+			<div class="swiper-button-next"></div>
+			<div class="swiper-button-prev"></div>
+		<!--//.ranking-wrap--></div>
+
+
+	</section>
+	<!--////////// 定番レシピランキング end -->
+
+
+
+
+
+<!--///// footer start -->
+<div id="footer-wrap">
+			<footer>
+			<div id="foot-side">
+				<h2><img src="/common/img/foot_ttl.gif" alt="白ごはん.com もくじ" width="113" height="70"></h2>
+				<ul id="foot-snav">
+					<li><a href="/">トップページ</a></li>
+					<li><a href="http://rara.jp/sirogohan/" class="icon-blank" target="_blank">掲示板</a></li>
+					<li><a href="/contact/">お問い合わせ</a></li>
+					<li><a href="/news/">おしらせ</a></li>
+					<li><a href="/about/">運営者について</a></li>
+										<li><a href="/privacy/">プライバシーポリシー</a></li>
+				</ul>
+			</div>
+
+
+
+			<div id="fnav-wrap">
+						<div class="fnav-col">
+		    <nav class="inner-fnav">
+		        <h3 class="fnav-ttl"><span class="icon-gohan"><a href="/gohan/">ごはん</a></span></h3>
+		        <ul>
+		            <li><a href="/gohan/#A1">炊き込みご飯</a></li>
+		            <li><a href="/gohan/#A3">どんぶりや混ぜご飯</a></li>
+		            <li><a href="/gohan/#A8">おにぎり</a></li>
+		            <li><a href="/gohan/#A4">寿司</a></li>
+		            <li><a href="/gohan/#A5">その他ごはんもの</a></li>
+		            <li><a href="/gohan/#A6">パンや粉ものの軽食</a></li>
+		        </ul>
+		    </nav>
+		    <nav class="inner-fnav">
+		        <h3 class="fnav-ttl"><span class="icon-sirumono"><a href="/sirumono/">汁もの</a></span></h3>
+		        <ul>
+		            <li><a href="/sirumono/#B1">みそ汁</a></li>
+		            <li><a href="/sirumono/#B4">おすまし</a></li>
+		            <li><a href="/sirumono/#B5">スープ</a></li>
+		            <li><a href="/sirumono/#B6">だしの基本</a></li>
+		        </ul>
+		    </nav>
+		    <nav class="inner-fnav">
+		        <h3 class="fnav-ttl"><span class="icon-okazu"><a href="/okazu/">おかず</a></span></h3>
+		        <ul>
+		            <li><a href="/okazu/#C7">基本のおかず</a></li>
+		            <li><a href="/okazu/#C1">野菜のおかず</a></li>
+		            <li><a href="/okazu/#C2">魚介のおかず</a></li>
+		            <li><a href="/okazu/#C3">肉のおかず</a></li>
+		            <li><a href="/okazu/#C4">卵のおかず</a></li>
+		            <li><a href="/okazu/#C5">豆腐・大豆製品のおかず</a></li>
+		            <li><a href="/okazu/#C6">乾物などその他のおかず</a></li>
+		        </ul>
+		    </nav>
+		    <nav class="inner-fnav">
+		        <h3 class="fnav-ttl"><span class="icon-jitan"><a href="/jitan/">時短や作り置き</a></span></h3>
+		        <ul>
+		            <li><a href="/jitan/#H1">10分以内のかんたん副菜</a></li>
+		            <li><a href="/jitan/#H9">20分以内の主役のおかず</a></li>
+		            <li><a href="/jitan/#H8">まな板＆包丁いらず</a></li>
+		            <li><a href="/jitan/#H3">火を使わないレンジ活用</a></li>
+		            <li><a href="/jitan/#H7">冷凍保存可能</a></li>
+		            <li><a href="/jitan/#H6">冷蔵で5～7日保存可能</a></li>
+		            <li><a href="/jitan/#H5">冷蔵で3～4日保存可能</a></li>
+		        </ul>
+		    </nav>
+		    <!--//.fnav-col-->
+		</div>
+
+		<div class="fnav-col">
+		    <nav class="inner-fnav">
+		        <h3 class="fnav-ttl"><span class="icon-mentonabe"><a href="/mentonabe/">めんと鍋もの</a></span></h3>
+		        <ul>
+		            <li><a href="/mentonabe/#D2">めん料理（温）</a></li>
+		            <li><a href="/mentonabe/#D3">めん料理（冷）</a></li>
+		            <li><a href="/mentonabe/#D4">パスタ料理</a></li>
+		            <li><a href="/mentonabe/#D1">鍋もの</a></li>
+		        </ul>
+		    </nav>
+		    <nav class="inner-fnav">
+		        <h3 class="fnav-ttl"><span class="icon-jyobisai"><a href="/jyobisai/">ごはんのお供や保存食</a></span></h3>
+		        <ul>
+		            <li><a href="/jyobisai/#E2">ごはんのお供</a></li>
+		            <li><a href="/jyobisai/#E3">ぬか漬けや浅漬け</a></li>
+		            <li><a href="/jyobisai/#E6">たれやドレッシング</a></li>
+		            <li><a href="/jyobisai/#E8">その他保存食</a></li>
+		        </ul>
+		    </nav>
+		    <nav class="inner-fnav">
+		        <h3 class="fnav-ttl"><span class="icon-kihon"><a href="/kihon/">下ごしらえや基本</a></span></h3>
+		        <ul>
+		            <li><a href="/kihon/#F1">野菜の下ごしらえ</a></li>
+		            <li><a href="/kihon/#F2">魚介や肉の下ごしらえ</a></li>
+		            <li><a href="/kihon/#F5">米とだしの基本</a></li>
+		            <li><a href="/kihon/#F4">調理の基本や小技・コツ</a></li>
+		            <li><a href="/kihon/#F3">薬味の下ごしらえ</a></li>
+		        </ul>
+		    </nav>
+		    <nav class="inner-fnav">
+		        <h3 class="fnav-ttl"><span class="icon-oyatu"><a href="/oyatu/">おやつ</a></span></h3>
+		        <ul>
+		            <li><a href="/oyatu/#G1">甘いおやつ</a></li>
+		            <li><a href="/oyatu/#G3">塩味や素材そのものおやつ</a></li>
+		            <li><a href="/oyatu/#G5">シロップや甘露煮</a></li>
+		        </ul>
+		    </nav>
+		    <!--//.fnav-col-->
+		</div>				<!--//#fnav-wrap-->
+			</div>
+
+		</footer>
+		<p class="copyright"><img src="/common/img/copyright.gif" alt="copyright&copy;白ごはん.com. All rights reserved." width="272" height="14"></p>
+	<p class="foot-privacy">当サイト内の文章・画像等の無断転載及び複製等の行為は禁じます。<br>Unauthorized copying and replication of the contents of this site, text and images are strictly prohibited.</p>
+</div>
+<!--///// footer end -->
+
+
+<!--///// 新規会員登録のモーダル start -->
+<div class="modal-member remodal" data-remodal-id="modal">
+	<button data-remodal-action="close" class="remodal-close"></button>
+	<h3 class="modal-member-ttl">「お気に入り」の登録について</h3>
+	<p class="modal-member-txt">白ごはん.comに会員登録いただくと、お気に入りレシピを保存できます。<br>
+		保存したレシピには「メモ」を追加できますので、<br class="pc-item-m">自己流のアレンジ内容も残すことが可能です。<br>
+		また、保存した内容はログインすることでPCやスマートフォンなどでも<br class="pc-item-m">ご確認いただけます。</p>
+	<ul class="modal-member-btn">
+		<li><a href="/member/">会員登録<span>（無料）</span></a></li>
+		<li><a href="/member/login/">ログイン</a></li>
+	</ul>
+</div>
+<!--///// 新規会員登録のモーダル end -->
+
+<script type="text/javascript" src="/common/js/common.js?date=20250605100751" charset="UTF-8"></script>
+<script src="/common/js/lib/jquery.bxslider/jquery.bxslider.min.js"></script>
+<script src="/common/js/lib/remodal/remodal.min.js"></script>
+<script src="/common/js/lib/lazysizes.min.js"></script>
+<script>
+	$(".ranking-bxslider").bxSlider({
+		adaptiveHeight: true,
+		slideSelector: ".ranking-box",
+		infiniteLoop: false,
+		hideControlOnEnd: true,
+		pager: false,
+		minSlides: 5,
+		maxSlides: 5,
+		moveSlides: 1,
+		slideWidth: 200,
+		slideMargin: 10
+	});
+</script>
+<script src="/common/js/recipe.js"></script>
+</body>
+
+</html>
